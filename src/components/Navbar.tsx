@@ -23,7 +23,7 @@ export default function Navbar() {
                 <a href='/about'>เกี่ยวกับ</a>
               </li>
               <li className='text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1'>
-                <a href='/ai'>AI ขับเคลื่อนนโยบายสาธารณะ</a>
+                <a href='/evaluation'>AI ขับเคลื่อนนโยบายสาธารณะ</a>
               </li>
               <li className='text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1'>
                 <a href='#'></a>
